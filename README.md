@@ -1,8 +1,12 @@
 ## Hi there 👋
+![octocat-1730822705412](https://github.com/user-attachments/assets/68a091eb-51b1-4a80-881c-83011d690a67)
+
+
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoSennaMaiaCampos&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=BernardoSennaMaiaCampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src=![Uploading octocat-1730822705412.png…]()
+"https://github-readme-stats.vercel.app/api?username=BernardoSennaMaiaCampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
 **BernardoSennaMaiaCampos/BernardoSennaMaiaCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

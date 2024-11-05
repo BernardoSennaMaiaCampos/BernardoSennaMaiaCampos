@@ -4,7 +4,8 @@
 
 ## Ferramentas e Tecnologias
 <img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-          
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+                    
 
 <div>
 <a href="https://github.com/BernardoSennaMaiaCampos">

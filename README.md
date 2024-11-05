@@ -1,8 +1,19 @@
 ## Olá 👋
 
-<img height="300px" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img height="300px" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" />
 
-## Ferramentas e Tecnologias
+## Linguagens de Programação
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+## Linguagens de Marcação e Estilização
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" /><img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
+## Frameworks
+<img height="180em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />     
+          
+          
+          
+          
 
 
                     

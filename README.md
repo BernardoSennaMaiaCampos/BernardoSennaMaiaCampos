@@ -1,6 +1,6 @@
 ## Olá 👋
 
-<img height="1116px" width="1116px" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" />
+<img height="300px" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" />
 
 
 

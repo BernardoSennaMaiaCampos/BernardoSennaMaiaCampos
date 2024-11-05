@@ -1,5 +1,6 @@
 ## Hi there 👋
-![octocat-1730822705412](https://github.com/user-attachments/assets/68a091eb-51b1-4a80-881c-83011d690a67)
+
+![octocat-1730822705412](height="180em" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b")
 
 
 <div>

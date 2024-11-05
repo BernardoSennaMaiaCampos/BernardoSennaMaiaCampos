@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![octocat-1730822705412](https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b){width=100px}{height=100px}
+<img height="180em" src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" />
+
 
 
 <div>

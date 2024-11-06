@@ -1,7 +1,7 @@
 ## Olá 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="150" style="margin-right: 20px;">
+  <img src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" style="margin-right: 20px;">
   
   <aside>
     <p>Me chamo Bernardo e sou aluno de Análise e Desenvolvimento de Sistemas do Senac-RJ.</p>

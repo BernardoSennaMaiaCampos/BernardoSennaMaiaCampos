@@ -1,13 +1,15 @@
 ## Olá 👋
 
-<div style="display: grid; grid-template-columns: auto 1fr; align-items: center;">
+<div style="display: flex; align-items: left;">
   <img src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="150" style="margin-right: 20px;">
-  
+</div>
+<div style="display: flex; align-items: right;">
   <p>
     Me chamo Bernardo e sou aluno de Análise e Desenvolvimento de Sistemas do Senac-RJ.
     Atualmente trabalho como estagiário de análise e desenvolvimento de sistemas na Procuradoria Geral do Município do Rio de Janeiro.
   </p>
 </div>
+
 
 
 &nbsp;

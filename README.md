@@ -1,16 +1,33 @@
 ## Olá 👋
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" width="300" style="margin-right: 20px;">
+<div class="container">
+  <img src="https://github.com/user-attachments/assets/7a37dd0d-f335-4a0b-b11d-ed9bb7fe549b" alt="octocat" class="image">
+  
+  <aside class="text">
+    <p>Me chamo Bernardo e sou aluno de Análise e Desenvolvimento de Sistemas do Senac-RJ.</p>
+    <p>Atualmente trabalho como estagiário de análise e desenvolvimento de sistemas na Procuradoria Geral do Município do Rio de Janeiro.</p>
+  </aside>
 </div>
-<aside>
-  <p>
-    Me chamo Bernardo e sou aluno de Análise e Desenvolvimento de Sistemas do Senac-RJ.
-    Atualmente trabalho como estagiário de análise e desenvolvimento de sistemas na Procuradoria Geral do Município do Rio de Janeiro.
-  </p>
-</aside>
 
 
+<style>
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.image {
+  width: 300px;
+  margin-right: 20px;
+}
+
+.text {
+  max-width: 600px; /* Ajuste conforme necessário */
+}
+
+  
+</style>
 
 &nbsp;
 

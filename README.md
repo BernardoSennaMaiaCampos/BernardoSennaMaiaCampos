@@ -9,6 +9,7 @@
 
 
 
+![AIVanGogh3x2_2+3](https://github.com/user-attachments/assets/c4ee67b1-987f-47b0-acbc-0d143984b37f)
 
   </aside>
 </div>

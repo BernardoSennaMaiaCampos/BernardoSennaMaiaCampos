@@ -30,7 +30,11 @@
 ## Sistemas Operacionais
 <img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" /><img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rockylinux/rockylinux-original.svg" /><img height="90em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original-wordmark.svg" />
           
-          
+&nbsp;
+
+## Certificações
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b6485c86-dcac-44df-8b5f-3a465aebb65f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
           
           
 

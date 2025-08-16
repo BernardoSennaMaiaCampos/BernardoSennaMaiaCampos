@@ -33,7 +33,8 @@
 &nbsp;
 
 ## Certificações
-<img height="90em" src="https://www.credly.com/badges/b6485c86-dcac-44df-8b5f-3a465aebb65f/public_url" />
+[![Credly Badge](https://images.credly.com/size/200x200/images/b6485c86-dcac-44df-8b5f-3a465aebb65f/badge.png)](https://www.credly.com/badges/b6485c86-dcac-44df-8b5f-3a465aebb65f/public_url)
+
           
 
           

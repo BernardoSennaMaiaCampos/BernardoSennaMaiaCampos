@@ -33,9 +33,7 @@
 &nbsp;
 
 ## Certificações
-
-<img data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b6485c86-dcac-44df-8b5f-3a465aebb65f" data-share-badge-host="https://www.credly.com"></img><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-          
+<img height="90em" src="https://www.credly.com/badges/b6485c86-dcac-44df-8b5f-3a465aebb65f/public_url" />
           
 
           
